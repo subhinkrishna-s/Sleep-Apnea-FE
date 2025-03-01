@@ -33,7 +33,7 @@ function Header() {
     <header className='px-3 py-2 d-flex justify-content-between align-items-center gap-3'>
         <div className='d-flex justify-content-start align-items-center gap-2 logo-container' role='button' onClick={()=>window.location.href="/"}>
             {/* <img className='Logo' src={'https://dummyimage.com/512x512/ddd/000.png&text=Logo'} alt='Logo' style={{height: "60px"}}/> */}
-            <h1 className='Logo-title m-0 fs-5'>Sleep Anpea Monitoring</h1>
+            <h1 className='Logo-title m-0 fs-5'>Sleep Apnea Monitoring</h1>
         </div>
         <nav className='lg-menu'>
             <ul className='d-flex justify-content-center align-items-center m-0 p-0' style={{listStyleType: 'none'}}>

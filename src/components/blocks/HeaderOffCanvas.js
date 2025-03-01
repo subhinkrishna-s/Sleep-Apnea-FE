@@ -39,7 +39,7 @@ function HeaderOffcanvas() {
                 <div className='d-flex justify-content-start align-items-center gap-2 logo-container' id="offcanvasExampleLabel" role='button' onClick={() => handleNavCollapse('/')}>
                     {/* <img className='Logo' src='https://dummyimage.com/512x512/ddd/000.png&text=Logo' alt='Logo' style={{height: "60px"}}/> */}
                     <div className='text-info text-center'>
-                        <h1 className='Logo-title m-0 fs-5'>Sleep Anpea Monitoring</h1>
+                        <h1 className='Logo-title m-0 fs-5'>Sleep Apnea Monitoring</h1>
                     </div>
                 </div>
                 <button type="button" className="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
